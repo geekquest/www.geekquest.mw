@@ -2,7 +2,7 @@
 
 This design was created with figma by [Taurai Gombera](https://github.com/tauraigombera) and is available at [Figma](https://www.figma.com/file/8UWmhw32wAwuFHJOkwD6us/GeekQuestDesign?type=design&node-id=0%3A1&mode=design&t=hNqtf10BkWgI98w9-1)
 
-![Figma](https://www.figma.com/file/8UWmhw32wAwuFHJOkwD6us/GeekQuestDesign?type=design&node-id=0%3A1&mode=design&t=hNqtf10BkWgI98w9-1)
+![Figma](docs/GeekQuestDesign/GeekQuestDesign.png)
 
 ## Features
 
