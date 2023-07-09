@@ -14,7 +14,7 @@ export default function Header() {
   const [selectedIndex, setSelectedIndex] = useState(-1);
 
   return (
-    <header className="container flex py-6 justify-between items-center text-lg text-grayHeaderText font-medium sticky top-0 ">
+    <header className="container bg-body flex py-6 justify-between items-center text-lg text-grayHeaderText font-medium sticky top-0 ">
       <Link href="/">
         <h1 className="text-4xl font-bold text-primary">GeekQuest</h1>
       </Link>

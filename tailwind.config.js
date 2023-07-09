@@ -13,6 +13,7 @@ module.exports = {
         body: "#FFFFFF",
         grayHeaderText: "#585858",
         selectedText: "#0468D7",
+        grayParagraphText: "#797979",
       },
       screens: {
         tallscreen: { raw: "(min-aspect-ration: 13/20)" },
